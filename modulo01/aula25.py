@@ -1,5 +1,6 @@
 #Estrutura de Repetição FOR
-
-for c in range(10):
-    print(c)
-    print("Testando\n")
+# inicio fim passo . INDICE = REPETIÇÃO
+for variavel in range(11) :
+   
+    print(variavel)
+    print("Testando:\n")

@@ -30,6 +30,7 @@ cond = int(input('''Digite o número que representa a características que você
 \n5_ Peso
 \n6_ País
 \n7_ Idioma
+\n8_ Completo
 \n >>>>>>> '''))
 
 if cond == 1:
@@ -42,7 +43,7 @@ elif cond == 3:
     print(f" O sexo que você deseja saber é: {pessoa['Sexo']}")
 
 elif cond == 4:
-    print(f" A altura que você deseja saber é: {pessoa['Altura']}")
+    print(f" A altura que você deseja saber é: {pessoa['Tamanho']}")
 
 elif cond == 5:
     print(f" O peso que você deseja saber é: {pessoa['Peso']}")

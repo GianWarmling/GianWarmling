@@ -7,11 +7,8 @@ nome3 = input("Digite seu Nome: ")
 nome4 = input("Digite seu Nome: ")
 
 #Variavel recebendo uma lista definida pela simbologia [],
-lista = [   nome1,
-            nome2,
-            nome3,
-            nome4
-            ]
+#o que é uma lista e a condicao de agrupamento de individuos. 
+lista = [nome1, nome2, nome3, nome4]
 
 sorteado = choice(lista)
 
