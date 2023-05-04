@@ -23,14 +23,14 @@ while situacao == "Reprovado":
     if media < 7:
 
         situacao = "Reprovado"
-        print(f"Infelizmente voce foi { situacao } seu Bobao  sua nota foi {media}")
+        print(f"Infelizmente voce foi { situacao } seu Bobão, sua nota foi {media}")
     
     elif media >= 7:
         for c in range(0, 10):
             print("*")
             sleep(1)
         situacao = "Aprovado"
-        print("Parabens Voce Foi {} O mundo e pequeno para voce ".format(situacao))
+        print("Parabens Voce Foi {} O mundo é pequeno para voce ".format(situacao))
     
     dicionario ={
         "Nome": nome,

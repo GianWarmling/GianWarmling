@@ -1,0 +1,11 @@
+nome = input("Qual seu nome: ")
+sobrenome = input("Qual seu sobrenome: ")
+idade = input("Qual sua idade: ")
+naturalidade = input("Qual sua naturalidade: ")
+genero = input("Qual seu genero: ")
+
+print("Seu nome:", nome)
+print("Seu sobrenome: ", sobrenome)
+print("Sua idade: ", idade)
+print("Sua naturalidade: ", naturalidade)
+print("Seu genero é: ", genero)
