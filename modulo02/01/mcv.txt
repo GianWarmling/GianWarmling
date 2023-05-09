@@ -1,0 +1,7 @@
+MCV
+
+M = MODEL
+
+C = CONTROLLER
+
+V = VIEW
