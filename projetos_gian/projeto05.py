@@ -4,14 +4,14 @@ numero2 = input("Digite o segundo número: ")
 
 if operacao == "soma":
     resultado = int(numero1) + int(numero2)
-if operacao == "sub":
+elif operacao == "sub":
     resultado = int(numero1) - int(numero2)
-if operacao == "mult":
+elif operacao == "mult":
     resultado = int(numero1) * int(numero2)
-if operacao == "div":
+elif operacao == "div":
     resultado = int(numero1) / int(numero2)
 
 else:
     resultado = "Operação não Suportada"
 
-print("O resultado da operação é: " + str(resultado))  
+print("O resultado da operação é: " + str(resultado))
