@@ -11,10 +11,11 @@ No momento, estou estudando e praticando C# no desenvolvimento backend e React p
 
 Tenho interesse em aprender continuamente novas tecnologias, boas práticas de programação e em aplicar meus conhecimentos em projetos práticos. Também desejo aprofundar meus estudos em Bootstrap, com o objetivo de criar interfaces mais responsivas e bem estruturadas, sempre visando minha evolução profissional e técnica.
 
+----
+
 #### Contato
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.linkedin.com/in/gian-warmling-991238269/)
-
 #### Linguagens e Tecnologias
 
 <div style='display: inline_block'><br/>
