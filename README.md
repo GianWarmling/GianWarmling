@@ -1,6 +1,8 @@
 
 ## Olá eu sou o Gian Warmling✌️
 
+### Desenvolvedor FullStack
+
 👨‍💻 Sobre mim
 
 Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em aprimorar minhas habilidades no desenvolvimento de software e na construção de soluções eficientes e escaláveis.
