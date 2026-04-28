@@ -9,7 +9,7 @@ Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em
 
 No momento, estou estudando e praticando C# no desenvolvimento backend e React para criação de interfaces modernas e dinâmicas no frontend. Além disso, venho aprofundando meus conhecimentos em bancos de dados, trabalhando com SQL, Oracle Database e MySQL, buscando compreender desde a modelagem até a otimização de consultas.
 
-Tenho interesse em aprender continuamente novas tecnologias, boas práticas de programação e em aplicar meus conhecimentos em projetos práticos. Também desejo aprofundar meus estudos em Bootstrap, com o objetivo de criar interfaces mais responsivas e bem estruturadas, sempre visando minha evolução profissional e técnica.
+Tenho interesse em aprender continuamente novas tecnologias, boas práticas de programação e em aplicar meus conhecimentos em projetos práticos. 
 
 ----
 
